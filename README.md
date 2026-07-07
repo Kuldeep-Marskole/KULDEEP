@@ -1,0 +1,15 @@
+
+Tuesday 7th July 2026 - 02:49PM
+
+## Introduction 
+
+Hello! My name is Kuldeep Marskole.
+I am currently pursuing a B.Tech degree in Information Technology at IET DAVV, Indore (3rd Year, 5th Semester).
+
+I have experience with:
+- Frontend: HTML, CSS, JavaScript, React
+- Backend: Node.js, Express.js
+- Databases: MongoDB, MySQL
+- Programming: C++
+
+I am currently learning Git, GitHub, and Data Structures & Algorithms while building a full-stack typing test web application. 
