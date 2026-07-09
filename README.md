@@ -13,8 +13,3 @@ I have experience with:
 - Programming: C++
 
 I am currently learning Git, GitHub, and Data Structures & Algorithms while building a full-stack typing test web application. 
-
-
-### Progress Tracker 
-
-1. Created profile details - KULDEEP MARSKOLE - Thurday 09th July 2026 - 10:32p.m.
