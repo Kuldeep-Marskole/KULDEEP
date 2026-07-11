@@ -1,5 +1,4 @@
 
 ## Conflict Lab 
 
-Current branch says chaos builds character.
-
+Chaos builds character and consistency beats chaos.
