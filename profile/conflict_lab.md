@@ -1,4 +1,4 @@
 
 ## Conflict Lab 
 
-Incoming change from develop says consistency beats chaos.
+Chaos builds character and consistency beats chaos.
