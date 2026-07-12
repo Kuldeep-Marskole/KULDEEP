@@ -18,3 +18,8 @@ I am currently learning Git, GitHub, and Data Structures & Algorithms while buil
 ### Progress Tracker 
 
 1. Created profile details - KULDEEP MARSKOLE - Thurday 09th July 2026 - 10:32p.m.
+
+## Progress Tracker: Started journal work - Sunday 12th July 2026 - 03:42p.m.
+1. 
+2. 
+3. 
