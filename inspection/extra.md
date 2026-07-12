@@ -1,6 +1,0 @@
-
-## Extra Inspection Notes
-
-- 
-- 
-- 
