@@ -23,3 +23,8 @@ I am currently learning Git, GitHub, and Data Structures & Algorithms while buil
 1. 
 2. 
 3. 
+
+## Progress Tracker: Practiced soft reset - Sunday 12th July 2026 04:07p.m.
+1. 
+2. 
+3. 
