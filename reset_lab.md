@@ -2,3 +2,5 @@
 # Soft
 
 # Hard 
+
+# Mixed 
