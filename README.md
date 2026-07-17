@@ -30,3 +30,4 @@ I am currently learning Git, GitHub, and Data Structures & Algorithms while buil
 3. 
 
 # Added peer review - Friday 17th July 2026 03:43p.m.
+# Added self review - Friday 17th July 2026 03:56p.m.
