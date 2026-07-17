@@ -29,7 +29,7 @@ I am currently learning Git, GitHub, and Data Structures & Algorithms while buil
 2. 
 3. 
 
-# Added peer review - Friday 17th July 2026 03:43p.m.
-# Added self review - Friday 17th July 2026 03:56p.m.
-# Added rebase first - Friday 17th July 2026 04:36p.m.
-# Added rebase second - Friday 17th July 2026 04:39p.m.
+## Added peer review - Friday 17th July 2026 03:43p.m.
+## Added self review - Friday 17th July 2026 03:56p.m.
+## Added rebase first - Friday 17th July 2026 04:36p.m.
+## Added rebase second - Friday 17th July 2026 04:39p.m.
