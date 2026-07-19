@@ -13,3 +13,28 @@ I have experience with:
 - Programming: C++
 
 I am currently learning Git, GitHub, and Data Structures & Algorithms while building a full-stack typing test web application. 
+
+
+### Progress Tracker 
+
+1. Created profile details - KULDEEP MARSKOLE - Thurday 09th July 2026 - 10:32p.m.
+
+## Progress Tracker: Started journal work - Sunday 12th July 2026 - 03:42p.m.
+1. 
+2. 
+3. 
+
+## Progress Tracker: Practiced soft reset - Sunday 12th July 2026 04:07p.m.
+1. 
+2. 
+3. 
+
+## Added peer review - Friday 17th July 2026 03:43p.m.
+## Added self review - Friday 17th July 2026 03:56p.m.
+## Added rebase first - Friday 17th July 2026 04:36p.m.
+## Added rebase second - Friday 17th July 2026 04:39p.m.
+- 
+- 
+- 
+
+## Cherry-picked useful notes - 18th July 2026 01:37a.m.
