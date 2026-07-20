@@ -1,0 +1,5 @@
+- ``git rebase <branch-name>``
+- ``git cherry-pick <commit hash>``
+- ``git rebase --continue``
+- ``git push --force-with-lease``
+- ``git revert --no-edit <commit hash>``
